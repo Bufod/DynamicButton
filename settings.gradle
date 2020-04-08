@@ -1,0 +1,2 @@
+rootProject.name='DynamicButton'
+include ':app'
